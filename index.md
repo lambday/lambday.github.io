@@ -1,2 +1,1 @@
-## Hello World
-This is just testing shit.
+(Performance measurements and analyzing)[docs/profiling.md]
